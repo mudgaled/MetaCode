@@ -1508,3 +1508,392 @@
 {"level":"info","message":"User Garvit Gupta disconnected","timestamp":"2025-04-25T23:37:48.391Z"}
 {"level":"info","message":"New socket connection: QbcHDxoluMkhAwkYAAAX","timestamp":"2025-04-25T23:37:49.465Z"}
 {"level":"info","message":"User Garvit Gupta joined room 680c1924a32cfc856b55e4b6","timestamp":"2025-04-25T23:37:54.483Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:23:55.833Z"}
+{"level":"info","message":"New socket connection: h2G8-9JWUKIY80A6AAAC","timestamp":"2025-04-26T00:24:44.297Z"}
+{"level":"info","message":"New socket connection: u6vHBIzGPgyddimUAAAD","timestamp":"2025-04-26T00:24:44.306Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T00:24:47.300Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3d60740bb995858ee9","timestamp":"2025-04-26T00:24:50.473Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:25:37.193Z"}
+{"level":"info","message":"New socket connection: 2q9gubn6n6eKevmgAAAF","timestamp":"2025-04-26T00:25:37.647Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:25:39.672Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:26:55.798Z"}
+{"level":"info","message":"New socket connection: K2_xPVo6mx-7z_yQAAAH","timestamp":"2025-04-26T00:26:56.244Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:26:57.480Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:27:06.681Z"}
+{"level":"info","message":"New socket connection: BDQ7zjmiQg_unYwHAAAJ","timestamp":"2025-04-26T00:27:07.225Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:27:09.182Z"}
+{"level":"info","message":"New socket connection: AejdGA-_J0R7JbM1AAAL","timestamp":"2025-04-26T00:27:09.628Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3960740bb995858ee6","timestamp":"2025-04-26T00:27:11.741Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3960740bb995858ee6","timestamp":"2025-04-26T00:27:21.918Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3960740bb995858ee6","timestamp":"2025-04-26T00:27:21.939Z"}
+{"level":"info","message":"Code updated in room 67f95f3960740bb995858ee6","timestamp":"2025-04-26T00:27:22.228Z"}
+{"level":"info","message":"Code updated in room 67f95f3960740bb995858ee6","timestamp":"2025-04-26T00:27:22.229Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:28:16.739Z"}
+{"level":"info","message":"New socket connection: sMuoXR2Bc_em6m3qAAAN","timestamp":"2025-04-26T00:28:17.104Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:28:18.262Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:30:21.272Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:30:21.281Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:36:08.535Z"}
+{"level":"info","message":"New socket connection: eIc1id70PnJMsrUMAAAB","timestamp":"2025-04-26T00:36:09.058Z"}
+{"level":"info","message":"New socket connection: Tp0IS-eht1VaPDL_AAAD","timestamp":"2025-04-26T00:36:09.082Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:36:09.132Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:36:09.905Z"}
+{"level":"info","message":"New socket connection: Ijk1tQRbw_r3p-shAAAB","timestamp":"2025-04-26T00:36:11.028Z"}
+{"level":"info","message":"New socket connection: 1xmgCfeVedoB_V0DAAAD","timestamp":"2025-04-26T00:36:11.032Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:36:11.087Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:36:51.729Z"}
+{"level":"info","message":"New socket connection: J192r3nehiKbHRdEAAAC","timestamp":"2025-04-26T00:36:53.246Z"}
+{"level":"info","message":"New socket connection: 2WVRDoyDn2q6qDztAAAD","timestamp":"2025-04-26T00:36:53.268Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:36:53.336Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:40:19.728Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:40:21.195Z"}
+{"level":"info","message":"New socket connection: 2px9tqfYi8MloeNlAAAB","timestamp":"2025-04-26T00:40:21.710Z"}
+{"level":"info","message":"New socket connection: IpXR-EqcReDTYueEAAAD","timestamp":"2025-04-26T00:40:21.749Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:40:21.827Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:40:25.718Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:40:27.715Z"}
+{"level":"info","message":"New socket connection: qtWpwTt1NV5daHF3AAAB","timestamp":"2025-04-26T00:40:28.204Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:40:28.270Z"}
+{"level":"info","message":"New socket connection: 1PYbS9krmaqdH6snAAAD","timestamp":"2025-04-26T00:40:29.001Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:51:27.870Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T00:51:30.568Z"}
+{"level":"info","message":"New socket connection: PhwDLmqRIv9240KlAAAB","timestamp":"2025-04-26T00:51:48.926Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:52:06.137Z"}
+{"level":"info","message":"New socket connection: 0spkr3RsWe0qIxjbAAAD","timestamp":"2025-04-26T00:52:06.443Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:52:54.013Z"}
+{"level":"info","message":"New socket connection: U9AjKWObVna_unHpAAAF","timestamp":"2025-04-26T00:52:54.931Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:52:56.098Z"}
+{"level":"info","message":"New socket connection: Z7B007ALivi3DLNNAAAH","timestamp":"2025-04-26T00:52:56.910Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:53:03.470Z"}
+{"level":"info","message":"New socket connection: w3mwXlhxqvHm0b-HAAAJ","timestamp":"2025-04-26T00:53:03.751Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:53:07.747Z"}
+{"level":"info","message":"New socket connection: 387frL_-RxWlIAP6AAAL","timestamp":"2025-04-26T00:53:08.175Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T00:53:10.222Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T00:58:15.425Z"}
+{"level":"info","message":"New socket connection: E06ry0tIN5hnNgd8AAAN","timestamp":"2025-04-26T00:58:15.730Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:01:01.794Z"}
+{"level":"info","message":"New socket connection: CvKaiaU1ggZzi8VvAAAQ","timestamp":"2025-04-26T01:01:01.868Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:01:05.055Z"}
+{"level":"info","message":"New socket connection: tIxnqAMBJ5hN19XDAAAS","timestamp":"2025-04-26T01:01:05.356Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:01:11.075Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:01:11.086Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:01:21.589Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:01:21.592Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:04:12.627Z"}
+{"level":"info","message":"New socket connection: YL01gr7qMSP7a6CJAAAU","timestamp":"2025-04-26T01:04:13.084Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:04:19.959Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:04:19.969Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:04:32.448Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:04:32.460Z"}
+{"level":"info","message":"Code updated in room 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:04:32.798Z"}
+{"level":"info","message":"Code updated in room 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:04:32.819Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:05:33.313Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:05:33.425Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:12:57.653Z"}
+{"level":"info","message":"New socket connection: 8jwqMlttR94e7fEpAAAW","timestamp":"2025-04-26T01:13:03.361Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:13:05.410Z"}
+{"level":"info","message":"New socket connection: 7bVSUvjjypYp5mZrAAAa","timestamp":"2025-04-26T01:13:05.641Z"}
+{"level":"info","message":"New socket connection: t8HMtghE8JD6aeI6AAAZ","timestamp":"2025-04-26T01:13:06.718Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T01:13:06.776Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:13:44.307Z"}
+{"level":"info","message":"New socket connection: P9VlZvhYXAeNGiiZAAAB","timestamp":"2025-04-26T01:13:45.824Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T01:13:45.931Z"}
+{"level":"info","message":"New socket connection: vRcPmF8k3ACayATdAAAD","timestamp":"2025-04-26T01:13:47.998Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:19:38.078Z"}
+{"level":"info","message":"New socket connection: Q2EKVBkg6Ef37pGuAAAF","timestamp":"2025-04-26T01:19:38.477Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:19:42.866Z"}
+{"level":"info","message":"New socket connection: 5clYEQc4Ef7psWTkAAAH","timestamp":"2025-04-26T01:19:44.366Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:20:07.165Z"}
+{"level":"info","message":"New socket connection: ARztGswDOPVglytAAAAJ","timestamp":"2025-04-26T01:20:07.461Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:24:17.672Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:24:18.804Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:24:19.856Z"}
+{"level":"info","message":"New socket connection: 9FsNcNKnHUQFepa_AAAB","timestamp":"2025-04-26T01:24:20.363Z"}
+{"level":"info","message":"New socket connection: Lh4u9uiHgnAYoAGlAAAD","timestamp":"2025-04-26T01:24:20.385Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:28:28.303Z"}
+{"level":"info","message":"New socket connection: Ws2IQ_J7AZCN8hmpAAAD","timestamp":"2025-04-26T01:28:29.063Z"}
+{"level":"info","message":"New socket connection: b5Wr_zMY4PZJ9qk2AAAB","timestamp":"2025-04-26T01:28:29.188Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:29:14.244Z"}
+{"level":"info","message":"New socket connection: vaKpJG7Wf1QTFHIPAAAB","timestamp":"2025-04-26T01:29:16.221Z"}
+{"level":"info","message":"New socket connection: vAL0X_6ocLiZGjmNAAAD","timestamp":"2025-04-26T01:29:16.227Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:29:17.135Z"}
+{"level":"info","message":"New socket connection: 0OgZvNdcWSvN5xziAAAB","timestamp":"2025-04-26T01:29:18.043Z"}
+{"level":"info","message":"New socket connection: 4WSivl5pg1yaDdC2AAAD","timestamp":"2025-04-26T01:29:18.045Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:29:32.553Z"}
+{"level":"info","message":"New socket connection: aYWwNSJlFcwd4uBAAAAF","timestamp":"2025-04-26T01:29:32.871Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:29:34.703Z"}
+{"level":"info","message":"New socket connection: 3dWxxFGbz_ZN0UFKAAAH","timestamp":"2025-04-26T01:29:35.136Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:29:36.169Z"}
+{"level":"info","message":"New socket connection: zJTYXgQTuuxiu4QjAAAJ","timestamp":"2025-04-26T01:29:36.589Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:29:37.712Z"}
+{"level":"info","message":"New socket connection: Y6mk60KH-dn39PCvAAAL","timestamp":"2025-04-26T01:29:38.178Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:31:48.838Z"}
+{"level":"info","message":"New socket connection: s93QHZP1BtPEU6zdAAAN","timestamp":"2025-04-26T01:31:49.820Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:31:50.852Z"}
+{"level":"info","message":"New socket connection: zDPFJcdw-WoxiAFJAAAP","timestamp":"2025-04-26T01:31:51.672Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:31:53.354Z"}
+{"level":"info","message":"New socket connection: Sp9ciQq7ikE0ZMMyAAAR","timestamp":"2025-04-26T01:31:53.624Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T01:31:55.980Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T01:31:55.989Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:32:00.208Z"}
+{"level":"info","message":"New socket connection: 1vkEEoqo4lKk1etbAAAT","timestamp":"2025-04-26T01:32:00.495Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:32:31.204Z"}
+{"level":"info","message":"New socket connection: euwTKka1VcYHE1AIAAAV","timestamp":"2025-04-26T01:32:32.291Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:32:36.487Z"}
+{"level":"info","message":"New socket connection: w5fSweJAmGssv0PCAAAX","timestamp":"2025-04-26T01:32:36.834Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:32:38.606Z"}
+{"level":"info","message":"New socket connection: p_FXVGaSYNoHvkkjAAAZ","timestamp":"2025-04-26T01:32:38.971Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:32:39.818Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:33:09.928Z"}
+{"level":"info","message":"New socket connection: Vo-lA6jREktqoJVVAAAb","timestamp":"2025-04-26T01:33:10.247Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:34:00.443Z"}
+{"level":"info","message":"New socket connection: WEZblb5gP7Ogbu4MAAAB","timestamp":"2025-04-26T01:34:01.079Z"}
+{"level":"info","message":"New socket connection: WVtQPBvTG_fuRSf6AAAD","timestamp":"2025-04-26T01:34:01.144Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:34:29.690Z"}
+{"level":"info","message":"New socket connection: LMhnCmtG8E4YKApSAAAF","timestamp":"2025-04-26T01:34:29.981Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:36:04.812Z"}
+{"level":"info","message":"New socket connection: 48pD_8jFySFn_xbNAAAH","timestamp":"2025-04-26T01:36:05.139Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:36:12.657Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:36:12.677Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:36:12.900Z"}
+{"level":"info","message":"New socket connection: GbQWrTHZ-HiLSIWfAAAJ","timestamp":"2025-04-26T01:36:13.341Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:36:15.878Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:36:24.056Z"}
+{"level":"info","message":"New socket connection: CDwhdF_30O_JrkChAAAL","timestamp":"2025-04-26T01:36:24.491Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:36:46.099Z"}
+{"level":"info","message":"New socket connection: TA4IdPFqfPn0rcO7AAAN","timestamp":"2025-04-26T01:36:46.371Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:38:58.144Z"}
+{"level":"info","message":"New socket connection: HVDIoimCZZQv8a2GAAAP","timestamp":"2025-04-26T01:38:58.552Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:39:00.593Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:39:00.601Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:39:01.859Z"}
+{"level":"info","message":"New socket connection: 5cG88HE-sD8Re3qUAAAR","timestamp":"2025-04-26T01:39:02.247Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:39:04.843Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:39:39.202Z"}
+{"level":"info","message":"New socket connection: rohHcI0DZIbXHSajAAAT","timestamp":"2025-04-26T01:39:39.560Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:39:51.734Z"}
+{"level":"info","message":"New socket connection: 7HYyl4W0WhpnW7j0AAAV","timestamp":"2025-04-26T01:39:51.998Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:40:17.694Z"}
+{"level":"info","message":"New socket connection: oTyCzBD7b0I70ccVAAAX","timestamp":"2025-04-26T01:40:17.803Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:40:19.743Z"}
+{"level":"info","message":"New socket connection: bEyvfdL8ynhvfBLSAAAZ","timestamp":"2025-04-26T01:40:20.022Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:40:26.879Z"}
+{"level":"info","message":"New socket connection: yM6YVTMFh1BhyAm3AAAb","timestamp":"2025-04-26T01:40:27.168Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:40:40.711Z"}
+{"level":"info","message":"New socket connection: _io13paMi0eCdqeDAAAd","timestamp":"2025-04-26T01:40:40.982Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:40:41.307Z"}
+{"level":"info","message":"New socket connection: 1bjTT6TNIFJssc9uAAAh","timestamp":"2025-04-26T01:40:41.926Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:40:50.804Z"}
+{"level":"info","message":"New socket connection: utTk2bEzX464p7qJAAAj","timestamp":"2025-04-26T01:40:51.057Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:41:13.798Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:41:13.805Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:46:05.629Z"}
+{"level":"info","message":"New socket connection: x3_K4XK37BJ15FadAAAl","timestamp":"2025-04-26T01:46:05.953Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:46:08.960Z"}
+{"level":"info","message":"New socket connection: VnX_ZcMYuDoN39D_AAAn","timestamp":"2025-04-26T01:46:09.309Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:46:11.636Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:46:11.648Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:46:56.572Z"}
+{"level":"info","message":"New socket connection: j-Kpt-PUwUHVMJRzAAAB","timestamp":"2025-04-26T01:46:58.356Z"}
+{"level":"info","message":"New socket connection: gZE_Zx1BqR6YUTn7AAAD","timestamp":"2025-04-26T01:46:58.392Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:47:00.245Z"}
+{"level":"info","message":"New socket connection: dGiLdpIeUjDp_NbBAAAB","timestamp":"2025-04-26T01:47:02.048Z"}
+{"level":"info","message":"New socket connection: tM2lsC1cFusZK8xWAAAD","timestamp":"2025-04-26T01:47:02.086Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:47:05.309Z"}
+{"level":"info","message":"New socket connection: 7upuiaDYRM5rSx2eAAAF","timestamp":"2025-04-26T01:47:05.594Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:47:22.804Z"}
+{"level":"info","message":"New socket connection: ElJOsuqe0ICs_pUaAAAH","timestamp":"2025-04-26T01:47:23.056Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:48:12.034Z"}
+{"level":"info","message":"New socket connection: JhJyFidKHfAuUXOsAAAJ","timestamp":"2025-04-26T01:48:12.311Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:48:13.449Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:48:13.453Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:48:14.978Z"}
+{"level":"info","message":"New socket connection: aQHW126HCiMh-panAAAL","timestamp":"2025-04-26T01:48:15.371Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3d60740bb995858ee9","timestamp":"2025-04-26T01:48:17.667Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3d60740bb995858ee9","timestamp":"2025-04-26T01:48:25.382Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3d60740bb995858ee9","timestamp":"2025-04-26T01:48:25.386Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:52:12.232Z"}
+{"level":"info","message":"New socket connection: JgyfUzLGw9yBpGfeAAAB","timestamp":"2025-04-26T01:52:13.032Z"}
+{"level":"info","message":"New socket connection: 89_kdcBX3_bii0-3AAAD","timestamp":"2025-04-26T01:52:13.222Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:52:24.320Z"}
+{"level":"info","message":"New socket connection: dWgTiUQqCJCjcaRYAAAD","timestamp":"2025-04-26T01:52:25.026Z"}
+{"level":"info","message":"New socket connection: 01ennYKBUcoAqI4pAAAB","timestamp":"2025-04-26T01:52:25.173Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T01:52:28.896Z"}
+{"level":"info","message":"New socket connection: -k_vHo4P5hT3ZizHAAAB","timestamp":"2025-04-26T01:52:30.022Z"}
+{"level":"info","message":"New socket connection: YfVAaV-SBt1T_mt9AAAD","timestamp":"2025-04-26T01:52:30.027Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:52:40.164Z"}
+{"level":"info","message":"New socket connection: idOVb7LUWeZCxbY0AAAF","timestamp":"2025-04-26T01:52:40.995Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:53:29.599Z"}
+{"level":"info","message":"New socket connection: 4mRtyspfLsAjFkD2AAAH","timestamp":"2025-04-26T01:53:29.928Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:53:30.989Z"}
+{"level":"info","message":"New socket connection: mFEoinow0q61piyjAAAJ","timestamp":"2025-04-26T01:53:31.342Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:54:06.715Z"}
+{"level":"info","message":"New socket connection: HbJ6kphhr3zzhUANAAAL","timestamp":"2025-04-26T01:54:07.039Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:54:08.841Z"}
+{"level":"info","message":"New socket connection: iICogzwpm86uXnXXAAAN","timestamp":"2025-04-26T01:54:09.108Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3d60740bb995858ee9","timestamp":"2025-04-26T01:54:10.689Z"}
+{"level":"info","message":"User krishna yadav joined room 67f95f3d60740bb995858ee9","timestamp":"2025-04-26T01:54:10.696Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:54:11.497Z"}
+{"level":"info","message":"New socket connection: Dm0Csn7PkrpvjooPAAAP","timestamp":"2025-04-26T01:54:11.929Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:54:13.366Z"}
+{"level":"info","message":"New socket connection: bgJV9vnOXZua-V38AAAR","timestamp":"2025-04-26T01:54:13.861Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:54:15.602Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:54:54.586Z"}
+{"level":"info","message":"New socket connection: MU8Hyfd4Obak0rfpAAAT","timestamp":"2025-04-26T01:54:58.745Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:55:34.017Z"}
+{"level":"info","message":"New socket connection: rIlqKbPwqW0OoorfAAAV","timestamp":"2025-04-26T01:55:34.318Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:56:50.074Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T01:56:50.106Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T01:57:41.129Z"}
+{"level":"info","message":"New socket connection: 8dsABWDWPGe7T68bAAAX","timestamp":"2025-04-26T01:57:41.543Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:01:57.904Z"}
+{"level":"info","message":"New socket connection: LUdmGlkYCEzeo2oaAAAZ","timestamp":"2025-04-26T02:01:58.326Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:02:18.947Z"}
+{"level":"info","message":"New socket connection: mmagmDNdoGG5g6U2AAAb","timestamp":"2025-04-26T02:02:19.233Z"}
+{"level":"error","message":"Avatar is already sold","method":"POST","path":"/api/avatar/purchase/680c36f519518e729b504a72","stack":"Error: Avatar is already sold\n    at S:\\0Krishna\\metaCode\\new_metacode\\metaCode\\Backend\\controllers\\avatar.controller.js:80:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-04-26T02:02:23.790Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:02:28.841Z"}
+{"level":"info","message":"New socket connection: bldWbRlYd7mDapNtAAAd","timestamp":"2025-04-26T02:02:29.248Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:02:31.817Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:02:31.837Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:02:42.458Z"}
+{"level":"info","message":"New socket connection: cMsIhKBe51p9cGiNAAAf","timestamp":"2025-04-26T02:02:42.842Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:03:29.110Z"}
+{"level":"info","message":"New socket connection: LEGjB9oKUBbd13lnAAAh","timestamp":"2025-04-26T02:03:29.540Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:07:53.166Z"}
+{"level":"info","message":"New socket connection: QQNujMQ_t_Onyu7UAAAj","timestamp":"2025-04-26T02:07:53.547Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:07:57.020Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:07:57.031Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:09:38.102Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:09:39.217Z"}
+{"level":"info","message":"New socket connection: -vNmKYdg26uDf2BAAAAB","timestamp":"2025-04-26T02:09:39.738Z"}
+{"level":"info","message":"New socket connection: hnWJ2EN7py-LSNDNAAAD","timestamp":"2025-04-26T02:09:39.761Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:09:43.342Z"}
+{"level":"info","message":"New socket connection: cy0TsjGYe9IFZG7iAAAD","timestamp":"2025-04-26T02:09:44.260Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:09:45.479Z"}
+{"level":"info","message":"New socket connection: OW8sFWGbXE45JQdzAAAB","timestamp":"2025-04-26T02:09:46.117Z"}
+{"level":"info","message":"New socket connection: zajQ_KPxf4YCHKyAAAAD","timestamp":"2025-04-26T02:09:46.144Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:09:54.236Z"}
+{"level":"info","message":"New socket connection: lHZgLpVY56RW79WDAAAF","timestamp":"2025-04-26T02:09:54.528Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:12:03.399Z"}
+{"level":"info","message":"New socket connection: jqSmKg2QBudzyKPHAAAH","timestamp":"2025-04-26T02:12:03.693Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:12:41.710Z"}
+{"level":"info","message":"New socket connection: XNtso0PDPBCYQELeAAAJ","timestamp":"2025-04-26T02:12:42.007Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:16:59.159Z"}
+{"level":"info","message":"New socket connection: qjse74J9nhvupfGNAAAL","timestamp":"2025-04-26T02:16:59.691Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:17:03.443Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:17:06.820Z"}
+{"level":"info","message":"New socket connection: 6UArtJUqhMlBM02wAAAN","timestamp":"2025-04-26T02:17:07.251Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:17:09.343Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:17:09.359Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:17:18.107Z"}
+{"level":"info","message":"New socket connection: Wv_oRCVO6kOyGPtAAAAP","timestamp":"2025-04-26T02:17:18.530Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:17:34.102Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:17:34.122Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:19:32.255Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:19:32.261Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:22:52.547Z"}
+{"level":"info","message":"New socket connection: _zmEv6g65x46zk24AAAB","timestamp":"2025-04-26T02:22:53.151Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:22:54.662Z"}
+{"level":"info","message":"New socket connection: AUoZKc5i9Wo8_qeHAAAB","timestamp":"2025-04-26T02:22:55.228Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:25:42.570Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:25:44.019Z"}
+{"level":"info","message":"New socket connection: EURTF5JEQr97H-8BAAAB","timestamp":"2025-04-26T02:25:44.560Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:25:51.641Z"}
+{"level":"info","message":"New socket connection: TmL6mtCYsJi-Os84AAAB","timestamp":"2025-04-26T02:25:52.277Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:25:53.247Z"}
+{"level":"info","message":"New socket connection: abMUgiw3RKKduK0pAAAB","timestamp":"2025-04-26T02:25:54.013Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:25:58.163Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:26:00.058Z"}
+{"level":"info","message":"New socket connection: 9ENphi9fCxWyFG73AAAB","timestamp":"2025-04-26T02:26:00.631Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:27:32.526Z"}
+{"level":"info","message":"New socket connection: rf1oP1K8rXKOw8UpAAAB","timestamp":"2025-04-26T02:27:34.019Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:28:06.903Z"}
+{"level":"info","message":"New socket connection: dx7VTWTy-6yRs6uZAAAB","timestamp":"2025-04-26T02:28:08.570Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:28:36.791Z"}
+{"level":"info","message":"New socket connection: I1lLwJ7m18cBbnJ8AAAB","timestamp":"2025-04-26T02:28:38.318Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:28:58.319Z"}
+{"level":"info","message":"New socket connection: kSuYHYNBq5DCkgiYAAAB","timestamp":"2025-04-26T02:28:59.879Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:29:40.479Z"}
+{"level":"info","message":"New socket connection: bdnTGaK5yug041nNAAAB","timestamp":"2025-04-26T02:29:41.098Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:29:47.002Z"}
+{"level":"info","message":"New socket connection: HiOXFu9TV9x2Xw1gAAAB","timestamp":"2025-04-26T02:29:49.604Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:29:59.748Z"}
+{"level":"info","message":"New socket connection: RIZzas86K7tCIuHjAAAD","timestamp":"2025-04-26T02:30:00.092Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:32:26.324Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:32:26.332Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:35:16.922Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:35:16.926Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:38:25.505Z"}
+{"level":"info","message":"New socket connection: JXLBQhMT5RYNSnIrAAAB","timestamp":"2025-04-26T02:38:27.015Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:38:27.063Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:38:30.814Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:38:32.317Z"}
+{"level":"info","message":"New socket connection: Syhihsr2cWvy-1K2AAAB","timestamp":"2025-04-26T02:38:33.965Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:38:34.322Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:38:54.065Z"}
+{"level":"info","message":"New socket connection: No3Fo9zYqE3_0tqmAAAD","timestamp":"2025-04-26T02:38:54.442Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:38:56.116Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:40:50.610Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:41:16.253Z"}
+{"level":"info","message":"New socket connection: FKRXn5W8gtcuDCM5AAAB","timestamp":"2025-04-26T02:41:24.583Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:41:25.764Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:44:17.940Z"}
+{"level":"info","message":"New socket connection: oNqnQYJeOM45JzWNAAAB","timestamp":"2025-04-26T02:44:18.771Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:44:30.162Z"}
+{"level":"info","message":"New socket connection: XWyYiPU_3xZoth8nAAAD","timestamp":"2025-04-26T02:44:30.567Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:44:35.158Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:44:35.164Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:45:33.229Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:45:33.237Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:46:53.743Z"}
+{"level":"info","message":"New socket connection: MXzDT10vub-3BdT8AAAB","timestamp":"2025-04-26T02:46:54.264Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:47:01.060Z"}
+{"level":"info","message":"New socket connection: td7nvW82gLfmiAMiAAAB","timestamp":"2025-04-26T02:47:01.598Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T02:47:03.088Z"}
+{"level":"info","message":"New socket connection: Y73VE-9ozUhOJeidAAAD","timestamp":"2025-04-26T02:47:03.390Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:53:18.747Z"}
+{"level":"info","message":"New socket connection: JxSOhm_qEhvjsNjLAAAB","timestamp":"2025-04-26T02:53:20.031Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:54:31.442Z"}
+{"level":"info","message":"New socket connection: O2sTc8n6lviaNHceAAAB","timestamp":"2025-04-26T02:54:32.257Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:56:09.622Z"}
+{"level":"info","message":"New socket connection: 11eaUFSsCexvyzazAAAB","timestamp":"2025-04-26T02:56:11.007Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T02:57:18.355Z"}
+{"level":"info","message":"New socket connection: 7FhUzeLtwT397KLKAAAB","timestamp":"2025-04-26T02:57:19.891Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T03:01:51.311Z"}
+{"level":"info","message":"New socket connection: kAnF2A8YpH3xBqy5AAAB","timestamp":"2025-04-26T03:01:53.018Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T03:01:55.935Z"}
+{"level":"info","message":"New socket connection: D1189VNhLtru_AIlAAAB","timestamp":"2025-04-26T03:01:56.440Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T03:01:57.275Z"}
+{"level":"info","message":"New socket connection: cL83HzVsoo1oUHy_AAAB","timestamp":"2025-04-26T03:01:59.222Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T03:02:02.083Z"}
+{"level":"info","message":"New socket connection: -zl33MFn2RY_o0Z-AAAB","timestamp":"2025-04-26T03:02:03.752Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T03:02:06.362Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T03:02:06.365Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T03:02:08.111Z"}
+{"level":"info","message":"New socket connection: vZhnxX6QcSJ3uxYZAAAD","timestamp":"2025-04-26T03:02:08.486Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T03:02:10.323Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T03:04:35.114Z"}
+{"level":"info","message":"New socket connection: H_wn9adR330f5PoKAAAB","timestamp":"2025-04-26T03:04:35.696Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T03:05:35.536Z"}
+{"level":"info","message":"New socket connection: 8xJFQrLdZM8B5CyXAAAB","timestamp":"2025-04-26T03:05:37.236Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T03:08:35.438Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T03:08:35.460Z"}
+{"level":"info","message":"User krishna yadav disconnected","timestamp":"2025-04-26T03:14:53.928Z"}
+{"level":"info","message":"New socket connection: QqZw8h2pH7goz2AHAAAD","timestamp":"2025-04-26T03:14:53.934Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T03:14:55.976Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T03:15:32.825Z"}
+{"level":"warn","message":"Room capacity exceeded: 67f94c0e60740bb995858da6","timestamp":"2025-04-26T03:15:32.887Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T03:59:00.783Z"}
+{"level":"info","message":"New socket connection: _B_JbtZf3Dw2JoVyAAAB","timestamp":"2025-04-26T04:00:46.671Z"}
+{"level":"info","message":"New socket connection: YbDU7UTUMkJuoLHLAAAD","timestamp":"2025-04-26T04:00:47.748Z"}
+{"level":"info","message":"User krishna yadav joined room 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T04:00:50.147Z"}
+{"error":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-01.dhctmjl.mongodb.net","level":"error","message":"Error during disconnect","timestamp":"2025-04-26T04:09:56.784Z"}
+{"level":"error","message":"Error retrieving user avatars","method":"GET","path":"/api/avatar/my-avatars","stack":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","timestamp":"2025-04-26T04:10:26.785Z"}
+{"error":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","level":"error","message":"Socket authentication failed","timestamp":"2025-04-26T04:10:26.787Z"}
+{"level":"error","message":"Error retrieving avatars from store","method":"GET","path":"/api/avatar","stack":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","timestamp":"2025-04-26T04:10:26.789Z"}
+{"level":"error","message":"Error retrieving avatars from store","method":"GET","path":"/api/avatar","stack":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","timestamp":"2025-04-26T04:10:26.791Z"}
+{"error":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","level":"error","message":"Socket authentication failed","timestamp":"2025-04-26T04:10:26.795Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-26T04:12:23.736Z"}
+{"level":"info","message":"New socket connection: Vzv7iv9o4SYOnWlOAAAB","timestamp":"2025-04-26T04:12:26.020Z"}
+{"level":"info","message":"New socket connection: EKM93FRTWihVQeN7AAAD","timestamp":"2025-04-26T04:13:05.088Z"}
+{"level":"info","message":"User krishna yadav joined room 67f6e9759400d5da64e55b01","timestamp":"2025-04-26T04:13:07.229Z"}

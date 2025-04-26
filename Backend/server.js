@@ -13,6 +13,8 @@ const jwt = require('jsonwebtoken');
 const User = require('./models/user.model');
 const Room = require('./models/room.model');
 const CodeSession = require("./models/codeSession")
+const avatarRoutes = require('./routes/avatar.routes');
+const userRoutes = require('./routes/user');
 
 const app = express();
 const server = http.createServer(app);
@@ -81,6 +83,10 @@ app.use(cors({
 
 app.use(express.json({ limit: '10kb' })); // Limit payload size
 app.use(express.urlencoded({ extended: true, limit: '10kb' }));
+
+// Mount routes
+app.use('/api/avatar', avatarRoutes);
+app.use('/api/user', userRoutes);
 
 const port = process.env.PORT || 3001;
 

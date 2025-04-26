@@ -416,3 +416,16 @@
 {"error":"Room validation failed: members.6.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"680b884459612c2ba67bd3f7","timestamp":"2025-04-25T19:48:21.487Z"}
 {"error":"Room validation failed: members.6.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"680b884459612c2ba67bd3f7","timestamp":"2025-04-25T19:48:21.492Z"}
 {"error":"Room validation failed: members.4.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"680c10cc1eabaf3f75e522fb","timestamp":"2025-04-25T23:04:49.414Z"}
+{"level":"error","message":"Avatar is already sold","method":"POST","path":"/api/avatar/purchase/680c36f519518e729b504a72","stack":"Error: Avatar is already sold\n    at S:\\0Krishna\\metaCode\\new_metacode\\metaCode\\Backend\\controllers\\avatar.controller.js:80:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-04-26T02:02:23.790Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:44:35.158Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:44:35.164Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:45:33.229Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T02:45:33.237Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T03:02:06.362Z"}
+{"error":"Room validation failed: members.0.user: Path `user` is required.","level":"error","message":"Error joining room","roomId":"67f6e9759400d5da64e55b01","timestamp":"2025-04-26T03:02:06.365Z"}
+{"error":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-01.dhctmjl.mongodb.net","level":"error","message":"Error during disconnect","timestamp":"2025-04-26T04:09:56.784Z"}
+{"level":"error","message":"Error retrieving user avatars","method":"GET","path":"/api/avatar/my-avatars","stack":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","timestamp":"2025-04-26T04:10:26.785Z"}
+{"error":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","level":"error","message":"Socket authentication failed","timestamp":"2025-04-26T04:10:26.787Z"}
+{"level":"error","message":"Error retrieving avatars from store","method":"GET","path":"/api/avatar","stack":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","timestamp":"2025-04-26T04:10:26.789Z"}
+{"level":"error","message":"Error retrieving avatars from store","method":"GET","path":"/api/avatar","stack":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","timestamp":"2025-04-26T04:10:26.791Z"}
+{"error":"getaddrinfo ENOTFOUND ac-0zdhq68-shard-00-00.dhctmjl.mongodb.net","level":"error","message":"Socket authentication failed","timestamp":"2025-04-26T04:10:26.795Z"}
